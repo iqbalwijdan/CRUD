@@ -1,0 +1,11 @@
+
+body { font-family: Arial, sans-serif; background: #f8f9fc; padding: 30px; }
+.container { background: white; padding: 20px; max-width: 700px; margin: auto; border-radius: 5px; }
+h2 { color: #2c3e50; }
+h2 span { color: #3498db; }
+table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+a.add-btn { background: #1abc9c; color: white; padding: 8px 15px; text-decoration: none; float: right; border-radius: 5px; }
+.edit, .delete { text-decoration: none; padding: 5px 8px; }
+.edit { color: orange; }
+.delete { color: red; }
